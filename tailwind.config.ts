@@ -28,6 +28,9 @@ export default {
       fontFamily: {
         manrope: ["var(--font-manrope)", "sans-serif"],
       },
+      backgroundImage :{
+        circles: "url('../../public/images/pattern-circles.svg')",
+      }
     },
   },
   plugins: [],
