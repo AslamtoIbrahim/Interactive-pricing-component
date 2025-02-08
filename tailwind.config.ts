@@ -12,6 +12,7 @@ export default {
         primary: {
           softCyan: "hsl(174, 77%, 80%)", // Full Slider Bar
           strongCyan: "hsl(174, 86%, 45%)", // Slider Background
+          veryStrongCyan: "hsl(174, 67%, 41%)", // Slider Background
           lightGrayishRed: "hsl(14, 92%, 95%)", // Discount Background
           lightRed: "hsl(15, 100%, 70%)", // Discount Text
           paleBlue: "hsl(226, 100%, 87%)", // CTA Text
